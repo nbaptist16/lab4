@@ -1,0 +1,4 @@
+#ifndef choose_H
+#define choose_H
+int choose (int N, int r);
+#endif
