@@ -1,3 +1,3 @@
-Name:
+Name: Nicole Catherine Keonaonailei'ohu Mei Ling Baptist
 
-Email:
+Email: nbaptist@bu.edu
